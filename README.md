@@ -1,5 +1,6 @@
-# demo-repo2
-oogaboogah is a creep
+# Demo 2
+Some descriptions
+##subheaders
 watched and learnt a few things...
 ##local development
 1.Open index.html in your browser
